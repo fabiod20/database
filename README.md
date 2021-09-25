@@ -10,5 +10,5 @@ Team development of a relational database for a nationwide car-pooling system, u
   - *05_triggers_and_procedures.sql*: create **triggers** and **stored procedures**;
   - *06_test_data.sql*: populate the database with some test data;
   - *07_queries.sql*: execute **queries** on the database.
-- [documentation](https://github.com/fabiod20/car-pooling-database/tree/main/documentation) directory contains an exhaustive documentation about the system and its development, written in Italian.
+- [documentation](https://github.com/fabiod20/car-pooling-database/tree/main/documentation) directory contains an exhaustive documentation of the system and its development, written in Italian.
 
