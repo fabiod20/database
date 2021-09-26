@@ -1,6 +1,11 @@
 # Car Pooling Database
+This repository contains the final project of the **Database** course (AY 17/18) at *University of Naples Federico II*. 
 
-Team development of a relational database for a nationwide car-pooling system, using Oracle Database 11g XE.
+## Assignment
+The aim of the project is to develop a relational database for a nationwide car-pooling system, using Oracle Database 11g XE.
+
+## Project
+The project, developed in team of 3, is structured as following:
 -  [design](https://github.com/fabiod20/car-pooling-database/tree/main/design) directory contains the **Entity-Relationship (ER) models** developed during the logical design of the database.
 - [implementation](https://github.com/fabiod20/car-pooling-database/tree/main/implementation) directory contains the sql code used to develop end test the database. The code is organised in the following files:
   - *01_tablespace_and_dba.sql*: create the table space and the Database Administrator (DBA) user;
