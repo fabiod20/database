@@ -1,5 +1,5 @@
 # Car Pooling Database
-This repository contains the final project of the **Database** course (AY 17/18) at *University of Naples Federico II*. 
+This repository contains the final project of the **Database** course (AY 17/18) at the *University of Naples Federico II*. 
 
 ## Assignment
 The aim of the project is to develop a relational database for a nationwide car-pooling system, using Oracle Database 11g XE.
